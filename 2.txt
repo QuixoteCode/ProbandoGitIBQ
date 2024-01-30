@@ -1,0 +1,1 @@
+El fichero que se nos manda crear en el paso n·13 de la práctica 2 de Git
